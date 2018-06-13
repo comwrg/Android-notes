@@ -1,4 +1,5 @@
 # Android-notes
+现在有个问题，就是调试为什么总是会闪退，而且没有报错啊，难受
 
 ## dependencies 
 ### Butter Knife
