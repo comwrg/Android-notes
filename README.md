@@ -9,3 +9,6 @@ Field and method binding for Android views
 ### rxjava
 https://github.com/ReactiveX/RxJava
 看了下rxjava教程，全都是黑魔法orz
+
+### Rxbinding
+https://github.com/JakeWharton/RxBinding
