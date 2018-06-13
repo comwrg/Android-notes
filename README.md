@@ -15,3 +15,6 @@ https://github.com/JakeWharton/RxBinding
 
 ### OkHttp
 https://square.github.io/okhttp/
+
+### Retrofit
+https://square.github.io/retrofit/
