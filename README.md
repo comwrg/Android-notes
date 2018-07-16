@@ -19,3 +19,6 @@ https://square.github.io/okhttp/
 
 ### Retrofit
 https://square.github.io/retrofit/
+
+### Dagger2
+觉得写的很好的Blog：https://www.cnblogs.com/all88/p/5788556.html
